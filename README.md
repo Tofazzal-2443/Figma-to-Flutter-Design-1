@@ -1,16 +1,42 @@
-# class27
+# Library Management System App
 
-A new Flutter project.
+A Task Management mobile app ui design created in Flutter, designed in Figma.
 
-## Getting Started
+## Design Pages
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="dimage/Splash.jpg" width="256" hspace="4">
+  <img src="dimage/Onboarding 1.jpg" width="256" hspace="4">
+  <img src="dimage/Onboarding 2.jpg" width="256" hspace="4">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the repository
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  git clone https://github.com/Tofazzal-2443/Figma-to-Flutter-Design-1.git
+```
+Move to the desired folder
+
+```bash
+  cd \Figma-to-Flutter-Design-1
+```
+To run the app, simply write
+
+```bash
+  flutter pub get
+```
+```bash
+  flutter run
+```
+
+## Tech Stack
+
+**Built With:** Dart, Flutter
+
+**State Management:** GetX
+
+## Platform
+
+- Android
